@@ -1,0 +1,120 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Billboard.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\Billboard.cpp(33,20): warning C4018: '>': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\Billboard.cpp(35,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\Billboard.cpp(61,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\Billboard.cpp(72,20): warning C4018: '>=': signed/unsigned 不相符
+  Bullet.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Enemy.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  FastNoise.cpp
+  FlyingWar.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(70,43): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(70,40): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(85,22): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(85,19): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(113,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(114,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(141,6): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(142,6): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\FlyingWar.cpp(195,50): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  tstring.cpp
+  MusicPlayer.cpp
+  WaveFile.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(39,28): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(103,28): warning C4244: '=': 將 'std::streamoff' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(120,27): warning C4244: '=': 將 'std::streamoff' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(685,100): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(694,84): warning C4244: '+=': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(709,104): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(710,108): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(719,88): warning C4244: '+=': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Media\WaveFile.cpp(720,92): warning C4244: '+=': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+  WaveOut.cpp
+  WaveOutEffect.cpp
+  Mesh.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Model.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  PureRenderer.cpp
+  正在產生程式碼...
+  正在編譯...
+  SpiritRenderer.cpp
+  TBox.cpp
+  TCamera.cpp
+  TElementBuffer.cpp
+  TTerra.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(103,18): warning C4244: '=': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(104,19): warning C4244: '=': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(122,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(125,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(147,33): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(149,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(156,17): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(156,38): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(190,40): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(191,41): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TTerra.cpp(205,22): warning C4244: '引數': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  TFreeType.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 巨集重複定義
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\GLFW\glfw3.h(123): message : 請參閱 'APIENTRY' 之前的定義
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\TFreeType\TFreeType.cpp(100,24): warning C4838: 從 'FT_Pos' 到 'GLuint' 的轉換必須是縮小轉換
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\TFreeType\TFreeType.cpp(126,13): warning C4244: '正在初始化': 將 'T' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=int
+          ]
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\TFreeType\TFreeType.cpp(127,13): warning C4244: '正在初始化': 將 'T' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=int
+          ]
+  TPlane.cpp
+  TShader.cpp
+  TSpiritVertex.cpp
+  TTexture.cpp
+  TVertexArray.cpp
+  Scene.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\Scene.cpp(19,12): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\Scene.cpp(19,9): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\Scene.cpp(29,6): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\Scene.cpp(30,6): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  SceneController.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 巨集重複定義
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\GLFW\glfw3.h(123): message : 請參閱 'APIENTRY' 之前的定義
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  SceneCover.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 巨集重複定義
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\GLFW\glfw3.h(123): message : 請參閱 'APIENTRY' 之前的定義
+  SceneLevel.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\include\assimp\defs.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(77,12): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(77,9): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(358,75): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(433,11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(434,11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(438,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(439,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(440,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(441,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(493,10): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(528,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(631,35): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\Scene\SceneLevel.cpp(641,35): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TSkyBox.cpp
+  TerraManager.cpp
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TerraManager.cpp(26,9): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\YK\Desktop\test2\FlyingWar\src\OpenGL\Terra\TerraManager.cpp(27,9): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TObject.cpp
+  正在產生程式碼...
+  glad.c
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 預設的程式庫 'msvcrt.lib' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  Flying War.vcxproj -> C:\Users\YK\Desktop\test2\FlyingWar\bin\Flying War_Debug.exe
